@@ -53,7 +53,7 @@ int main(){
         locationName = "Camp House D"; lodgingPerDay = 13000;
     } else if (locationChoice == 5){
         locationName = "Camp House E"; lodgingPerDay = 5000;
-    } else {
+    } else   {
         return 0;
     }
 
